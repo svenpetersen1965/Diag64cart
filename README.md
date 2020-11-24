@@ -8,7 +8,7 @@ Dead Test and Diagnostic reside in two different address spaces of the C64. Also
 This repository contains binary files from other projects. The sources can be found in documen 164-6-01-** or here:
 1.	(Commodore) Diagnostic Rev. 586220 (C64) (Version +0.5):  http://blog.worldofjani.com/?p=164
 2.	(Commodore) Dead Test Rev. 781220 (C64):  http://blog.worldofjani.com/?p=164
-3.	STID Dead Test (v1.2.0)
+3.	STID Dead Test (v1.2.0): https://github.com/stid/kick-c64-dead-test
 4.	(Commodore) Diagnostic Rev. 785260 (C128):  http://blog.worldofjani.com/?p=164
 5.	(Commodore) Diagnostic Rev. 588121 (C128):  http://blog.worldofjani.com/?p=164
 6.	1541 Diagnostic (World of Jani): : http://blog.worldofjani.com/?p=2180
