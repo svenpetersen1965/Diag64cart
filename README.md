@@ -13,3 +13,5 @@ This repository contains binary files from other projects. The sources can be fo
 5.	(Commodore) Diagnostic Rev. 588121 (C128):  http://blog.worldofjani.com/?p=164
 6.	1541 Diagnostic (World of Jani): : http://blog.worldofjani.com/?p=2180
 7.	Diag 4.1.1.: http://blog.worldofjani.com/?p=164 
+
+BOM value (12.12.2020): 9.79€
