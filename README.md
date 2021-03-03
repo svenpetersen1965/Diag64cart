@@ -15,3 +15,5 @@ This repository contains binary files from other projects. The sources can be fo
 7.	Diag 4.1.1.: http://blog.worldofjani.com/?p=164 
 
 BOM value (12.12.2020): 9.79€
+
+Check out the 3D printed cartridge case from <a href="https://www.thingiverse.com/thing:4759098">retrorewind.ca</a>.
