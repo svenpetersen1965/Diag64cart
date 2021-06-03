@@ -17,3 +17,6 @@ This repository contains binary files from other projects. The sources can be fo
 BOM value (12.12.2020): 9.79€
 
 Check out the 3D printed cartridge case from <a href="https://www.thingiverse.com/thing:4759098">retrorewind.ca</a>.
+
+# The burn-In Software
+This software requires modification of the default Configuration, since all four cartridges require EXROM=0 and Chip Select=ROML.
